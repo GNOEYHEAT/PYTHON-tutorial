@@ -1,2 +1,2 @@
 # PYTHON-tutorial
-source -> https://datascienceschool.net
+source -> https://datascienceschool.net & etc.
