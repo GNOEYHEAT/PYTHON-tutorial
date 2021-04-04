@@ -1,2 +1,2 @@
-# PYTHON
+# PYTHON-tutorial
 source -> https://datascienceschool.net
